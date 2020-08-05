@@ -1,0 +1,5 @@
+# ignore packer binary and temp files if someone places it in the directory - we don't want that in the repo!
+packer.exe
+packer
+packer_cache
+output-*
